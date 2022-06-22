@@ -350,7 +350,7 @@ margin: 0px 15px;
         rgba(0, 0, 0, 0.05),
         rgba(0, 0, 0, 0.5)
       ),
-      url(/img/gsap.png);
+      url(./img/gsap.png);
   }
   
   .card-2 {
@@ -359,7 +359,7 @@ margin: 0px 15px;
         rgba(0, 0, 0, 0.05),
         rgba(0, 0, 0, 0.5)
       ),
-      url(/img/OnPaste.20220621-111911.png);
+      url(./img/OnPaste.20220621-111911.png);
   }
   
   .card-3 {
@@ -368,7 +368,7 @@ margin: 0px 15px;
         rgba(0, 0, 0, 0.05),
         rgba(0, 0, 0, 0.5)
       ),
-      url(/img/OnPaste.20220621-112624.png);
+      url(./img/OnPaste.20220621-112624.png);
   }
   
   .card-4 {
@@ -377,7 +377,7 @@ margin: 0px 15px;
         rgba(0, 0, 0, 0.05),
         rgba(0, 0, 0, 0.5)
       ),
-      url(/img/OnPaste.20220621-141454.png);
+      url(./img/OnPaste.20220621-141454.png);
   }
   
  
@@ -388,7 +388,7 @@ margin: 0px 15px;
         rgba(0, 0, 0, 0.05),
         rgba(0, 0, 0, 0.6)
       ),
-      url(/img/gsap.png);
+      url(./img/gsap.png);
   }
   
   .card-2:hover {
@@ -397,7 +397,7 @@ margin: 0px 15px;
         rgba(0, 0, 0, 0.05),
         rgba(0, 0, 0, 0.6)
       ),
-      url(/img/OnPaste.20220621-111911.png);
+      url(./img/OnPaste.20220621-111911.png);
   }
   
   .card-3:hover {
@@ -406,7 +406,7 @@ margin: 0px 15px;
         rgba(0, 0, 0, 0.05),
         rgba(0, 0, 0, 0.6)
       ),
-      url(/img/OnPaste.20220621-112624.png);
+      url(./img/OnPaste.20220621-112624.png);
   }
   
   .card-4:hover {
@@ -415,7 +415,7 @@ margin: 0px 15px;
         rgba(0, 0, 0, 0.05),
         rgba(0, 0, 0, 0.6)
       ),
-      url(/img/OnPaste.20220621-141454.png);
+      url(./img/OnPaste.20220621-141454.png);
   }
   
 
