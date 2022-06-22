@@ -6,7 +6,7 @@ body {
   font-family: "Roboto";
 }
 .preloader{
-    background-image: url(/img/1\ e_Loq49BI4WmN7o9ItTADg.gif);
+    background-image: url(./img/1\ e_Loq49BI4WmN7o9ItTADg.gif);
     background-repeat: no-repeat;
     background-position: center;
     position: fixed;
@@ -103,7 +103,7 @@ border-radius: 4px;
 
 }
 .bgheader{
-background-image: url(/img/coding-1853305_1920.jpg);
+background-image: url(./img/coding-1853305_1920.jpg);
 width: 100vw;
 height: 100vh;
 background-repeat: no-repeat;
